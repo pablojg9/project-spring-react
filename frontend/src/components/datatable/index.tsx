@@ -19,6 +19,34 @@ const DataTable = () => {
                         <td>25</td>
                         <td>15224.43</td>
                     </tr>
+                    <tr>
+                        <td>22/09/2004</td>
+                        <td>Barry allen</td>
+                        <td>32</td>
+                        <td>25</td>
+                        <td>15224.43</td>
+                    </tr>
+                    <tr>
+                        <td>22/09/2004</td>
+                        <td>Barry allen</td>
+                        <td>32</td>
+                        <td>25</td>
+                        <td>15224.43</td>
+                    </tr>
+                    <tr>
+                        <td>22/09/2004</td>
+                        <td>Barry allen</td>
+                        <td>32</td>
+                        <td>25</td>
+                        <td>15224.43</td>
+                    </tr>
+                    <tr>
+                        <td>22/09/2004</td>
+                        <td>Barry allen</td>
+                        <td>32</td>
+                        <td>25</td>
+                        <td>15224.43</td>
+                    </tr>
                 </tbody>
             </table>
         </div>
