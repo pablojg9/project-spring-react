@@ -20,7 +20,6 @@ public class Sale {
     private Seller seller;
 
     public Sale() {
-
     }
 
     public Sale(Long id, Integer visited, Integer deals, Double amount, LocalDate date) {
